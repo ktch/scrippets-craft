@@ -12,7 +12,7 @@ There is no warranty on this. I made it for myself because I needed it.
 Installation
 ============
 
-Put the contents of this folder in craft/plugins, and then add the contents of the scrippets.css anywhere in your CSS. That's it.
+Put the contents of this folder in craft/plugins/scrippets, and then add the contents of the scrippets.css anywhere in your CSS. That's it.
 
 Usage
 =====
